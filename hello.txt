@@ -1,1 +1,5 @@
-This is dev branch, new master.
+<<<<<<< HEAD
+This is dev branch quick AND simple.
+=======
+This is dev branch quick AND simple.
+>>>>>>> dev
